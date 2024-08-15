@@ -1,0 +1,1 @@
+let square x y = x * x + y * y
